@@ -1,6 +1,7 @@
 
 ###> symfony/framework-bundle ###
-/.env.local
+/.envt
+/.env.localt 
 /.env.local.php
 /.env.*.local
 /public/bundles/
